@@ -1,3 +1,8 @@
+let regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
+let fetch = require('node-fetch')
+let handler = async (m, { args, usedPrefix, command }) => {
+
+    if (!args[0]) throw 'link githubnya mana? contoh: https://github.com/5GVckyy/SteadyWhatsApp'
 let regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]5GVckyy/SteadyWhatshapp'
 
     if (!regex.test(args[0])) throw 'link salah!'
