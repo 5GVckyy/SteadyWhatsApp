@@ -25,7 +25,7 @@ echo -e "\u001b[32mDone checking instalation!"
 
 echo -e "\u001b[36mCloning reposito!"
 git clone https://github.com/5GVckyy/SteadyWhatsApp.git SteadyWhatshapp
-if [ -d $dir/games-wabot ]; then
+if [ -d $dir/SteadyWhatshapp ]; then
   echo -e "\u001b[36mDone clone repository!"
 else
   echo -e "\u001b[31mFail to clone repository!"
@@ -33,7 +33,7 @@ else
 fi
 
 echo -e "\u001b[36mChange working directory!"
-cd games-wabot
+cd SteadyWhatshapp
 main_dir=$(pwd)
 if [ $main_dir != $dir ]; then
   echo -e "\u001b[36mDone change working directory!"
