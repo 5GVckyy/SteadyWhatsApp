@@ -1,5 +1,5 @@
 {
-  "name": "SteadyWhatshapp",
+  "name": "SteadyWhatsApp",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -25,7 +25,7 @@
     "whatsapp",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/5GVckyy/SteadyWhatshapp",
+  "homepage": "https://github.com/5GVckyy/SteadyWhatsApp",
   "author": {
     "name": "5GVckyy"
   },
@@ -34,7 +34,7 @@
     "url": "git+https://github.com/5GVckyy/SteadyWhatshapp.git"
   },
   "bugs": {
-    "url": "https://github.com/5GVckyy/SteadyWhatshapp/issues"
+    "url": "https://github.com/5GVckyy/SteadyWhatsApp/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
