@@ -24,11 +24,11 @@ check
 echo -e "\u001b[32mDone checking instalation!" 
 
 echo -e "\u001b[36mCloning reposito!"
-git clone https://github.com/BochilGaming/games-wabot.git games-wabot
+git clone https://github.com/5GVckyy/SteadyWhatsApp.git SteadyWhatshapp
 if [ -d $dir/games-wabot ]; then
-  echo -e "\u001b[36mDone clone reposito!"
+  echo -e "\u001b[36mDone clone repository!"
 else
-  echo -e "\u001b[31mFail to clone reposito!"
+  echo -e "\u001b[31mFail to clone repository!"
   exit 1
 fi
 
