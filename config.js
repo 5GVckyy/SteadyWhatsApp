@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['6283852800677'],
   ['6283852800677'],
-  ['6283852800677', 'Rexashh', true]
+  ['6283852800677', 'Vcky', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -78,5 +78,4 @@ watchFile(file, () => {
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
-})"
- https://raw.githubusercontent.com/5GVckyy/SteadyWhatshapp/e5400691e488240078a949d387db3cc624cb0d41/config.js#:~:text=import%20%7B%20watchFile%2C%20unwatchFile,update%3D%24%7BDate.now()%7D%60)%0A%7D)
+})
