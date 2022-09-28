@@ -1,5 +1,5 @@
 {
-  "name": "games-wabot",
+  "name": "SteadyWhatshapp",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -23,19 +23,18 @@
     "whatsapp",
     "js-whatsapp",
     "whatsapp",
-    "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/5GVckyy/SteadyWhatshapp",
   "author": {
-    "name": "BochilGaming"
+    "name": "5GVckyy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BochilGaming/games-wabot.git"
+    "url": "git+https://github.com/5GVckyy/SteadyWhatshapp.git"
   },
   "bugs": {
-    "url": "https://github.com/BochilGaming/games-wabot/issues"
+    "url": "https://github.com/5GVckyy/SteadyWhatshapp/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
